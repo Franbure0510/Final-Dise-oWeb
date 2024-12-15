@@ -1,0 +1,215 @@
+.navbar-custom {
+    background-color: #8B4513;
+}
+
+.navbar-custom .navbar-brand {
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+.navbar-custom .nav-link {
+    color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.hero {
+    position: relative;
+    background-image: url(https://api.freelogodesign.org/assets/blog/thumb/80d93389837d493b80e9f4f2ca3a48ad_1176x840.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: left;
+    padding: 100px 50px;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-family: 'Georgia', serif;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-top: 15px;
+}
+
+.hero .btn {
+    background-color: #8B4513;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.hero .btn:hover {
+    background-color: #1b5e20;
+}
+
+
+
+.navbar-custom .social-icons i {
+    color: white;
+    font-size: 1.2rem;
+    margin-right: 15px;
+}
+
+.locales-section {
+    background-color: #f9f5f0;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.locales-section h2 {
+    font-family: 'Georgia', serif;
+    font-size: 2.5rem;
+    color: #6d4c41;
+}
+
+.locales-section p {
+    font-size: 1rem;
+    color: #6d4c41;
+    margin-bottom: 40px;
+}
+
+.locales-section .card {
+    border: none;
+    background-color: transparent;
+}
+
+.locales-section .card img {
+    border-radius: 10px;
+}
+
+.locales-section .card-title {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #6d4c41;
+    font-weight: bold;
+}
+
+.video-container {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    font-family: arial;
+}
+.video-container iframe {
+    border-radius: 10px;
+}
+
+.section-locales {
+    background-color: #8B4513; 
+    color: white;
+    padding: 50px 0;
+}
+.section-title {
+    color: #fff;
+    font-size: 2.5rem;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+.card {
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card img {
+    border-radius: 10px 10px 0 0;
+}
+
+.card img:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card-body {
+    color: #8B4513;
+    text-align: center;
+}
+.btn-custom {
+    border: 2px solid #8B4513;
+    color: #8B4513;
+    border-radius: 25px;
+    padding: 5px 20px;
+    font-size: 1rem;
+}
+.btn-custom:hover {
+    background-color: #8B4513;
+    color: #fff;
+}
+
+
+.section-carta {
+    padding: 50px 0;
+}
+.section-title {
+    color: #8B4513;
+    font-size: 2.5rem;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.table {
+    color: #8B4513;
+    border: 2px solid #8B4513;
+}
+.table th {
+    background-color: #F5F5DC; /* Beige */
+    text-align: center;
+    font-size: 1.2rem;
+    font-style: italic;
+}
+.table td {
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+
+.contact-header {
+    font-family: 'Georgia', serif;
+    font-size: 2rem;
+    color: #6c4c3f;
+    text-align: center;
+    margin-bottom: 30px;
+    }
+    .form-container {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    }
+    .btn-custom {
+    background-color: #6c4c3f;
+    color: white;
+    border: 1px solid #6c4c3f;
+    transition: all 0.3s;
+    }
+    .btn-custom:hover {
+    background-color: white;
+        color: #6c4c3f;
+    }
+    .image-container img {
+    border-radius: 10px;
+    }
+
+    .card-2 img:hover {
+        transform: translateY(-30px);
+        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    }
+
+
+    footer {
+        background-color: #6c4c3f;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        }
+        footer span {
+        font-family: 'Georgia', serif;
+        }

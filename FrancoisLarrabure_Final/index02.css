@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background-color: #f5f0e9;
+}
+.navbar-brand {
+    font-weight: bold;
+    color: #007f3f;
+}
+.navbar-nav .nav-link {
+    color: #8B4513;
+    font-weight: 500;
+}
+.hero-section {
+    background: url('./Imagen/Imagen04.jpg') center/cover no-repeat;
+    color: white;
+    text-align: left;
+    padding: 150px 50px;
+}
+.hero-section h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.hero-section p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+.btn-green {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+.card {
+    border-radius: 1rem;
+}
+
+.btn-primary {
+    background-color: #8b4513;
+    border-color: #8b4513;
+}
+
+.btn-primary:hover {
+    background-color: #694010;
+    border-color: #694010;
+}
+
+.card-title {
+    color: #8b4513;
+    font-weight: bold;
+}
+
+.card-text {
+    color: #fff;
+}
+
+.img-fluid {
+    border-radius: 0.5rem;
+}
+.img-fluid:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+
+.card-text-2 {
+    color: #8b4513;
+}
+
+.img-fluid-2 {
+    border-radius: 1rem 0 0 1rem;
+    width: 300px;
+    height: 250px;
+}
+.img-fluid-2:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+.bg-dark {
+    background-color: #8b4513 !important;
+}
+
+.text-warning {
+    color: #ffd700 !important;
+}
+
+
